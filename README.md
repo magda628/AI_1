@@ -1,2 +1,2 @@
-# AI_1
+# Sztuczna inteligencja
 Magdalena Czyżewska 21227
